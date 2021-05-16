@@ -5,7 +5,7 @@ function App() {
     const [s, setS] = useState('')
         return (
         <div className="App">
-            <h1>sample</h1>
+            <h1>mobile button test</h1>
             <hr/>
             <p>pressed button: {s}</p>
             <div className="button"
