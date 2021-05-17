@@ -4,3 +4,21 @@
     background-color: grey;
     margin: 10px;
 }
+
+#button3 {
+    user-select:none;
+    -moz-user-select:none;
+    -khtml-user-select: none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    -webkit-touch-callout: none;
+}
+
+#button4 {
+    user-select:none;
+    -moz-user-select:none;
+    -khtml-user-select: none;
+    -webkit-user-select:none;
+    -ms-user-select:none;
+    -webkit-touch-callout: none;
+}
