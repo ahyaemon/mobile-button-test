@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/mobile-button-test/static/css/main.59558449.chunk.css",
-    "main.js": "/mobile-button-test/static/js/main.cb471803.chunk.js",
-    "main.js.map": "/mobile-button-test/static/js/main.cb471803.chunk.js.map",
+    "main.css": "/mobile-button-test/static/css/main.8f11646c.chunk.css",
+    "main.js": "/mobile-button-test/static/js/main.f4bbc946.chunk.js",
+    "main.js.map": "/mobile-button-test/static/js/main.f4bbc946.chunk.js.map",
     "runtime-main.js": "/mobile-button-test/static/js/runtime-main.1ae753be.js",
     "runtime-main.js.map": "/mobile-button-test/static/js/runtime-main.1ae753be.js.map",
     "static/js/2.ae695870.chunk.js": "/mobile-button-test/static/js/2.ae695870.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e5364fb3.chunk.js": "/mobile-button-test/static/js/3.e5364fb3.chunk.js",
     "static/js/3.e5364fb3.chunk.js.map": "/mobile-button-test/static/js/3.e5364fb3.chunk.js.map",
     "index.html": "/mobile-button-test/index.html",
-    "static/css/main.59558449.chunk.css.map": "/mobile-button-test/static/css/main.59558449.chunk.css.map",
+    "static/css/main.8f11646c.chunk.css.map": "/mobile-button-test/static/css/main.8f11646c.chunk.css.map",
     "static/js/2.ae695870.chunk.js.LICENSE.txt": "/mobile-button-test/static/js/2.ae695870.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1ae753be.js",
     "static/js/2.ae695870.chunk.js",
-    "static/css/main.59558449.chunk.css",
-    "static/js/main.cb471803.chunk.js"
+    "static/css/main.8f11646c.chunk.css",
+    "static/js/main.f4bbc946.chunk.js"
   ]
 }
