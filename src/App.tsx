@@ -1,9 +1,15 @@
-import React, {useState} from 'react';
+import React, {useCallback, useRef, useState} from 'react';
 import './App.css';
 
 function App() {
     const [s, setS] = useState('')
-        return (
+    const divRef = useCallback((target) => {
+        target.addEventListener('touchstart', (e: any) => {
+            e.preventDefault()
+            setS('5')
+        }, { passive: false })
+    }, [])
+    return (
         <div className="App">
             <h1>mobile button test: 1</h1>
             <a href="https://ahyaemon.github.io/mobile-button-test/test">test</a>
@@ -42,6 +48,11 @@ function App() {
                 onContextMenu={(e) => {
                     e.preventDefault()
                 }}
+            ></div>
+            <div
+                id="button5"
+                className="button"
+                ref={divRef}
             ></div>
         </div>
     );
