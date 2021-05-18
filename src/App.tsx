@@ -11,7 +11,7 @@ function App() {
     }, [])
     return (
         <div className="App">
-            <h1>mobile button test: 1</h1>
+            <h1>mobile button test: ver 2</h1>
             <a href="https://ahyaemon.github.io/mobile-button-test/test">test</a>
             <hr/>
             <p>pressed button: {s}</p>
