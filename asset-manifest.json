@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/mobile-button-test/static/css/main.8f11646c.chunk.css",
-    "main.js": "/mobile-button-test/static/js/main.552c44fe.chunk.js",
-    "main.js.map": "/mobile-button-test/static/js/main.552c44fe.chunk.js.map",
+    "main.js": "/mobile-button-test/static/js/main.b39d7ff0.chunk.js",
+    "main.js.map": "/mobile-button-test/static/js/main.b39d7ff0.chunk.js.map",
     "runtime-main.js": "/mobile-button-test/static/js/runtime-main.1ae753be.js",
     "runtime-main.js.map": "/mobile-button-test/static/js/runtime-main.1ae753be.js.map",
     "static/js/2.ae695870.chunk.js": "/mobile-button-test/static/js/2.ae695870.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.1ae753be.js",
     "static/js/2.ae695870.chunk.js",
     "static/css/main.8f11646c.chunk.css",
-    "static/js/main.552c44fe.chunk.js"
+    "static/js/main.b39d7ff0.chunk.js"
   ]
 }
